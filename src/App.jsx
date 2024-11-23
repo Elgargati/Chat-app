@@ -12,7 +12,7 @@ import {
 } from "stream-chat-react";
 import "stream-chat-react/dist/css/v2/index.css";
 
-const apikey = "6npt4sdsw2bc";
+const apikey = "vr26qhehcxp4";
 
 const users = [
   {
@@ -21,7 +21,7 @@ const users = [
     image: "https://getstream.imgix.net/images/random_svg/FS.png",
   },
   {
-    id: "johnn",
+    id: "john2",
     name: "El gargati",
     image: "https://getstream.imgix.net/images/random_svg/FS.png",
   },
